@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.centro {
+
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.caixa {
+
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: #ccc;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.3);
+}
+
+footer {
+
+    background: #0B0B61;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 5px;
+    margin-left: 20px;
+    height: 300px;
+}
+
+p a {
+
+    color: #fff
+}
